@@ -9,6 +9,5 @@ Instructions
 - Upload launcher.sh and info.py to raspberry pi to schedule and take images
 - Configure firewall within computer and network to allow for communication within the network
 - Configure Raspberry Pi to allow for external communication
-- CSet up Raspberry Pi Camera adding a scintillator or substitutes such as reflective tape
+- Set up Raspberry Pi Camera adding a scintillator or substitutes such as reflective tape
 - Set up Cron Scheduling with launcher.sh to execute bash script every minute
-- Afterwards, use other scripts to attempt to eliminate false positives
