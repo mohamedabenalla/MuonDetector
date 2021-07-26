@@ -1,7 +1,7 @@
 # MuonDetector
 Raspberry Pi Project to try to detect muon particles
 
-Result: Detected about 3 particles (out of 201,600 images) a week 
+Result: Detected about 3 potential particles a week (out of 201,600 images taken a week)
 
 (Estimated actual particle count is about 1 a week)
 
