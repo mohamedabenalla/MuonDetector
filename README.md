@@ -13,3 +13,7 @@ Instructions
 - Configure Raspberry Pi to allow for external communication
 - Set up Raspberry Pi Camera adding a scintillator over the camera or substitutes such as reflective tape
 - Set up Cron Scheduling with launcher.sh to execute bash script every minute
+
+Additional
+
+-My Personal Research Paper into Muon Detection is included in Adjacent Research
